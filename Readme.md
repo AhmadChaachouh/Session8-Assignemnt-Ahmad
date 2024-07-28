@@ -29,20 +29,20 @@ This project is a simple School Management System implemented in C++ using advan
 
 ## Project Structure
 
-├── Department.cpp
-├── Department.hpp
-├── Person.cpp
-├── Person.hpp
-├── PersonFactory.cpp
-├── PersonFactory.hpp
-├── README.md
-├── School.cpp
-├── School.hpp
-├── Student.cpp
-├── Student.hpp
-├── Teacher.cpp
-├── Teacher.hpp
-└── main.cpp
+├── Department.cpp  <br>
+├── Department.hpp  <br>
+├── Person.cpp      <br>
+├── Person.hpp      <br>
+├── PersonFactory.cpp       <br>
+├── PersonFactory.hpp       <br>
+├── README.md       <br>
+├── School.cpp      <br>
+├── School.hpp      <br>
+├── Student.cpp     <br>
+├── Student.hpp     <br>
+├── Teacher.cpp     <br>
+├── Teacher.hpp     <br>
+└── main.cpp        <br>
 
 
 ### Class Descriptions
